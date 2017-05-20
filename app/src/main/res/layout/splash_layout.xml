@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:fitsSystemWindows="true"
+    android:id="@+id/lvSplashActivity"
+    android:background="@drawable/background2">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/tvSplashTitle"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="27dp"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:src="@drawable/turtle_icon256"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.3"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="27dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvSplashSubTitle"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal|bottom"
+        android:textColor="#ffffff"
+        android:textSize="34sp"
+        android:padding="10dp"
+        android:text="Home Automation"
+        android:fontFamily="sans-serif-light"
+        android:background="#33000000"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#33000000"
+        android:id="@+id/tvSplashSubbTitle"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal|top"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:padding="10dp"
+        android:text="A smart way of living"
+        android:fontFamily="sans-serif-light"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="27dp"
+        />
+
+
+</LinearLayout>

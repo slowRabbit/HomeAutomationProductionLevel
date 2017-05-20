@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/cyris/Studies/projects/Gaurank/Major/HomeAutomationProductionLevel/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dcd0e803a390062ddbcd3884bb478402afac62e">
+        <dex dex="/media/cyris/Studies/projects/Gaurank/Major/HomeAutomationProductionLevel/app/build/intermediates/pre-dexed/debug/classes_32313c91b7eb9af64ba46b0bdabe8fa5fa5bd0eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/cyris/Studies/projects/Gaurank/Major/HomeAutomation/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dcd0e803a390062ddbcd3884bb478402afac62e">
+        <dex dex="/media/cyris/Studies/projects/Gaurank/Major/HomeAutomation/app/build/intermediates/pre-dexed/debug/classes_6ccd2d02a054513887653e87a7339e1f85ab0007.jar" />
+    </item>
+
+</items>
