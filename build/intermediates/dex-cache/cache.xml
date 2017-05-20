@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/media/cyris/Studies/projects/Gaurank/Major/HomeAutomationProductionLevel/library/build/intermediates/bundles/default/classes.jar"
+        jar="/media/cyris/Studies/projects/Gaurank/Major/Latest/HomeAutomationProductionLevel/library/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="8dcd0e803a390062ddbcd3884bb478402afac62e">
-        <dex dex="/media/cyris/Studies/projects/Gaurank/Major/HomeAutomationProductionLevel/app/build/intermediates/pre-dexed/debug/classes_32313c91b7eb9af64ba46b0bdabe8fa5fa5bd0eb.jar" />
+        <dex dex="/media/cyris/Studies/projects/Gaurank/Major/Latest/HomeAutomationProductionLevel/app/build/intermediates/pre-dexed/debug/classes_dcd0b68722d2746a2a95e646e8aef08207a3c2ed.jar" />
     </item>
     <item
         is-multidex="false"
